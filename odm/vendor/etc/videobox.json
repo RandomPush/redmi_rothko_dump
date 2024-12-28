@@ -1,0 +1,16 @@
+{
+    "version": "2.0",
+    "VppWhiteListAdaptCE": [
+        "tv.danmaku.bilibilihd",
+        "com.netflix.mediaclient.debug",
+        "com.miui.videoplayer",
+        "tv.danmaku.bili",
+        "com.miui.video",
+        "com.amazon.avod.thirdpartyclient",
+        "com.qiyi.video",
+        "com.tencent.qqlive",
+        "com.google.android.youtube",
+        "com.youku.phone",
+        "com.netflix.mediaclient"
+    ]
+}

@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Redmi
+ro.product.vendor_dlkm.device=rothko
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=2407FRK8EC
+ro.product.vendor_dlkm.name=rothko
+ro.product.vendor_dlkm.marketname=Redmi K70 Ultra
+ro.product.vendor_dlkm.cert=2407FRK8EC
+ro.vendor_dlkm.build.date=Tue Dec 24 05:12:03 UTC 2024
+ro.vendor_dlkm.build.date.utc=1735017123
+ro.vendor_dlkm.build.fingerprint=Redmi/rothko/rothko:14/UP1A.231005.007/OS2.0.101.0.VNNCNXM:user/release-keys
+ro.vendor_dlkm.build.id=UP1A.231005.007
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=OS2.0.101.0.VNNCNXM
+ro.vendor_dlkm.build.version.release=14
+ro.vendor_dlkm.build.version.release_or_codename=14
+ro.vendor_dlkm.build.version.sdk=34
+# end of file
+

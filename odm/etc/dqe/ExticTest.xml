@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Calib_Data>
+  <module name="version">
+    <version>20231208</version>
+  </module>
+  <module name="CRC">
+    <u32IC_CRC_GOLD_VAL_1>2791303888</u32IC_CRC_GOLD_VAL_1>
+    <u32IC_CRC_GOLD_VAL_2>445072028</u32IC_CRC_GOLD_VAL_2>
+    <u32IC_CRC_GOLD_VAL_3>3173871856</u32IC_CRC_GOLD_VAL_3>
+    <u32IC_CRC_GOLD_VAL_4>220286598</u32IC_CRC_GOLD_VAL_4>
+    <u32IC_CRC_GOLD_VAL_5>76154129</u32IC_CRC_GOLD_VAL_5>
+    <u32IC_CRC_GOLD_VAL_6>486384266</u32IC_CRC_GOLD_VAL_6>
+    <u32IC_CRC_GOLD_VAL_RX>284560970</u32IC_CRC_GOLD_VAL_RX>
+   </module>
+</Calib_Data>

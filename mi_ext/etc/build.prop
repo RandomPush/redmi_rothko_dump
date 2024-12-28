@@ -1,0 +1,14 @@
+ro.com.google.clientidbase=android-xiaomi
+ro.com.google.clientidbase.ms=android-xiaomi
+ro.miui.support.system.app.uninstall.v2=true
+ro.product.mod_device=rothko
+ro.thermal.iec.enable=true
+ro.miui.build.region=cn
+ro.gms.dck.eligible_wcc=1
+ro.gms.dck.se_capability=3
+ro.vendor.nfc.wallet_fusion=1
+ro.mi.os.flavor=phone
+ro.mi.os.version.publish=true
+ro.mi.os.version.code=2
+ro.mi.os.version.name=OS2.0
+ro.mi.os.version.incremental=OS2.0.101.0.VNNCNXM
