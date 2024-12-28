@@ -1,0 +1,155 @@
+{
+  "localId": "93210217-95d8-4735-9808-2fa8ad320725",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "1eb91f69ed9e1817476c6b0b357aff35efaa37bc",
+  "platform": 15,
+  "size": 22781837,
+  "updatedTime": 0,
+  "version": "2024.07.30",
+  "authors": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "en_US": "Xiaomi Themes",
+    "zh_CN": "小米主题"
+  },
+  "designers": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "en_US": "Xiaomi Themes",
+    "zh_CN": "小米主题"
+  },
+  "titles": {
+    "zh_HK": "K70 至尊冠軍版 藍寶堅尼汽車 SQUADRA CORSE",
+    "zh_TW": "K70 至尊冠軍版 藍寶堅尼汽車 SQUADRA CORSE",
+    "en_US": "K70 Ultra Lamborghini Squadra Corse",
+    "zh_CN": "K70 至尊冠军版 兰博基尼汽车 SQUADRA CORSE",
+    "fallback": "K70 至尊冠军版 兰博基尼汽车 SQUADRA CORSE"
+  },
+  "descriptions": {
+    "zh_HK": "點燃競速熱情，為你的手機換上全新戰衣！主題融入藍寶堅尼汽車 SQUADRA CORSE的DNA，深度客製開機動畫、充電動畫、桌面桌布及圖示，經典的六角形設計、凌厲的線條結構，為你帶來全方位的視覺衝擊！",
+    "zh_TW": "點燃競速熱情，為你的手機換上全新戰衣！主題融入藍寶堅尼汽車 SQUADRA CORSE的DNA，深度客製開機動畫、充電動畫、桌面桌布及圖示，經典的六角形設計、凌厲的線條結構，為你帶來全方位的視覺衝擊！",
+    "en_US": "Ignite your passion for racing and give your phone a new look! If you love the Lamborghini Squadra Corse, you'll love this design, with custom boot and charging animations, wallpapers, icons, and more.",
+    "zh_CN": "点燃竞速热情，为你的手机换上全新战衣！主题融入兰博基尼汽车 SQUADRA CORSE的DNA，深度定制开机动画、充电动画、桌面壁纸及图标，经典的六边形设计、凌厉的线条结构，为你带来全方位的视觉冲击！",
+    "fallback": "点燃竞速热情，为你的手机换上全新战衣！主题融入兰博基尼汽车 SQUADRA CORSE的DNA，深度定制开机动画、充电动画、桌面壁纸及图标，经典的六边形设计、凌厉的线条结构，为你带来全方位的视觉冲击！"
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_aod_small_0.jpg",
+      "preview_aod_0.jpg",
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_icons_0.jpg",
+      "preview_icons_1.jpg",
+      "preview_icons_2.jpg",
+      "preview_icons_2x3_0.jpg",
+      "preview_icons_4x3_0.jpg",
+      "preview_animation_0.jpg",
+      "preview_animation_1.jpg",
+      "preview_animation_2.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_aod_0.jpg",
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_icons_0.jpg",
+      "preview_icons_1.jpg",
+      "preview_icons_2.jpg",
+      "preview_icons_2x3_0.jpg",
+      "preview_icons_4x3_0.jpg",
+      "preview_animation_0.jpg",
+      "preview_animation_1.jpg",
+      "preview_animation_2.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "1338dbaa-aa09-4da2-867b-a38e96b892d2",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "a1b50992-2a2f-44fe-a18f-65e89e06b1b4",
+      "resourceCode": "lockstyle",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "2325e234-3953-45fd-9d0c-c0387c031be7",
+      "resourceCode": "bootanimation",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "6cfac045-ff5f-483b-accd-4fa1d0418a42",
+      "resourceCode": "bootaudio",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "f4d1c536-2d62-45f2-8d63-50b8153436e8",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "a8d7e9e2-868b-4a11-a268-e8570e12ef47",
+      "resourceCode": "statusbar",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "ea6bd42e-93ea-4048-a78c-dd81bb550cad",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "46d8580e-2f12-4a85-a418-e3e92d0da67e",
+      "resourceCode": "aod",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "bb4d3c34-ce00-48a4-948a-3c4a94456966",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "3.1"
+}
